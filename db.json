@@ -22,23 +22,22 @@
         {
             "id": 1,
             "name": "Hamli",
-            "description": "Non Spicy Collar Greens",
+            "description": "Sauteed Collar Greens/Spinach",
             "image":"./images/hamli.jpg",
             "ingredients" :[
                 "Collard greens", "yellow onions", "garlic", "canola oil", "parsley", "coriander", "tomatoes", "injera bread", "black pepper", "salt"]
         },
         {
             "id": 2,
-            "name": "Ades",
+            "name": "Timtimo (Ades)",
             "description": "Spicy lentils stew",
-            "image":"./images/des.jpeg",
+            "image":"./images/ades.jpeg",
             "ingredients" :[ 
                 "1½ cup red lentils, washed and drained",
                 "2 tablespoons olive oil",
                 "2 medium onions, minced",
                 "2 tablespoons Berbere spice (see below)",
-                "4 medium-sized tomatoes, blanched, peeled
-                and finely diced",
+                "4 medium-sized tomatoes, blanched, peeled and finely diced",
                 "2 teaspoons tomato paste",
                 "3 garlic cloves, crushed",
                 "1 inch piece of ginger, minced",
@@ -46,6 +45,85 @@
                 "1 teaspoon ground cardamom",
                 "2 cups water",
                 "salt and black pepper"
+            ]
+        },
+
+        {
+            "id": 2,
+            "name": "Alicha",
+            "description": "Cabbage Vegetable Mix",
+            "image":"./images/ades.jpeg",
+            "ingridients": [
+                "1/2 lb Cabbage, trimmed and chopped into around 1-2 inch lengths",
+                "1 onion, finely diced",
+                "2 stalks of celery, chopped",
+                "3 carrots, chopped and lightly fried in circles"
+                "2 potatoes, chopped and lightly french fried pieces",
+                "1/3 - 1/2 cup vegetable oil (yes, it's a lot, but the veggies will stick)",
+                "1 tablespoon curry powder ",
+                "1 jalapeno, seeded and minced (or other hot chili pepper)",
+                "1/2 cup parsley, minced",
+                "3 cloves garlic, minced",
+                "Salt"
+            
+            ]
+        }
+    ],
+    "Non-Vegan" :[
+        {
+            "id": 0,
+            "name": "Zigni",
+            "description": "Spicy Beef stew",
+            "image":"./images/ades.jpeg",
+            "ingridients": [
+                "2 lb beef  cubed" ,
+                "1 (14 oz) can diced tomatoes in juice , not drained",
+                "3 scallions , minced",
+                "4 cloves garlic , crushed",
+                "4 tablespoons berbere",
+                "1 bunch cilantro",
+                "5 tablespoons oil",
+                "Salt"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Xebhi Derho",
+            "description": "Spicy Chicken stew",
+            "image":"./images/ades.jpeg",
+            "ingridients": [
+                "4 chicken thighs",
+                "2 livers",
+                "2 gizzards",
+                "3 scallions , chopped",
+                "3 shallots , minced",
+                "5 cloves garlic , crushed",
+                "4 hard-boiled eggs",
+                "1 (1-inch) piece ginger , freshly grated",
+                "2 tablespoons berbere",
+                "2 tomatoes , peeled, seeded and diced",
+                "1 (4-oz) can tomato paste",
+                "4 tablespoons vegetable oil",
+                "Salt",
+                "Pepper",
+                "1 lemon",
+                "½ cup water"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Qulwa/Tibsi:",
+            "description": "Spicy Stir-fry",
+            "image":"./images/ades.jpeg",
+            "ingridients": [
+                "1 tbsp traditional butter",
+                "1 tbsp olive oil",
+                "1onion, sliced",
+                "1long green chilli, chopped",
+                "2tomatoes, diced",
+                "500g lamb fillet, diced into small cubes",
+                "pinch of salt",
+                "1 tbsp berbere "
             ]
         }
     ]
