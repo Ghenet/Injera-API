@@ -1,0 +1,52 @@
+{
+    "Vegan": [
+        {
+            "id": 0,
+            "name": "Shiro",
+            "description": "A mouth-watering mild spicy curry",
+            "image":"./images/shiro.jpeg",
+            "ingredients" :[
+                "½ cup oil",
+                "½ cup chickpea flour",
+                "2 medium onions pureed",
+                "1 roma tomato pureed",
+                "4 cloves of garlic chopped",
+                "2 to 2 ½ cups of water",
+                "1 tablespoons berbere spice",
+                "1 teaspoon garlic powder",
+                "Salt to taste",
+                "1 jalepeno chopped (optional)"
+                ]
+            
+        },
+        {
+            "id": 1,
+            "name": "Hamli",
+            "description": "Non Spicy Collar Greens",
+            "image":"./images/hamli.jpg",
+            "ingredients" :[
+                "Collard greens", "yellow onions", "garlic", "canola oil", "parsley", "coriander", "tomatoes", "injera bread", "black pepper", "salt"]
+        },
+        {
+            "id": 2,
+            "name": "Ades",
+            "description": "Spicy lentils stew",
+            "image":"./images/des.jpeg",
+            "ingredients" :[ 
+                "1½ cup red lentils, washed and drained",
+                "2 tablespoons olive oil",
+                "2 medium onions, minced",
+                "2 tablespoons Berbere spice (see below)",
+                "4 medium-sized tomatoes, blanched, peeled
+                and finely diced",
+                "2 teaspoons tomato paste",
+                "3 garlic cloves, crushed",
+                "1 inch piece of ginger, minced",
+                "1 teaspoon ground cumin",
+                "1 teaspoon ground cardamom",
+                "2 cups water",
+                "salt and black pepper"
+            ]
+        }
+    ]
+}
